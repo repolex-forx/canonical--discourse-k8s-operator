@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "discourse-k8s-operator",
+  "versions": [
+    {
+      "commit": "d351212f17645e74658aac28ab40a18bf7050c75",
+      "tag": "discourse-k8s-rev324",
+      "parsed_at": "2026-11-08T04:51:00.983231+00:00"
+    }
+  ]
+}
